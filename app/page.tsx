@@ -67,7 +67,7 @@ export default function Portfolio() {
               </span>
             </h1>
             <p className="text-xl text-zinc-400 max-w-[600px]">
-              Senior Software Engineer at Airbnb. ~9 years building large-scale AI systems, agentic platforms, and
+              Senior Software Engineer at Airbnb. 9 years building large-scale AI systems, agentic platforms, and
               cloud-native infrastructure used by millions worldwide.
             </p>
             <div className="flex items-center gap-2 text-sm text-zinc-500">
